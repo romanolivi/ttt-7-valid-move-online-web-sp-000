@@ -1,6 +1,5 @@
 def valid_move?(board, index)
-  if board[inde
-    false
+  if 
   elsif index.between?(0, 8)
     return true
   end
